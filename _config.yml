@@ -1,0 +1,28 @@
+name: monaco
+favicon: null
+layout_spectrum: 0.24220863752998412
+typography_spectrum: 0.9926822325214744
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2320764211472124
+  lightness: 0.9087602433282882
+  saturation: 0.6980698085390031
+  rhythmicContrast: 0.8869854053482413
+purpose: []
